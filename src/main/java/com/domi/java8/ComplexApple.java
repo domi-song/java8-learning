@@ -9,7 +9,6 @@ public class ComplexApple {
     private long weight;
     private String name;
 
-
     public ComplexApple(String color, long weight, String name) {
         this.color = color;
         this.weight = weight;
